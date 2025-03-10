@@ -1,0 +1,26 @@
+{
+  "login": {
+    "title": "Login",
+    "noAccount": "No account?",
+    "username": "Username",
+    "password": "Password",
+    "submit": "Sign In"
+  },
+  "register": {
+    "title": "Register",
+    "username": "Username",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "submit": "Register",
+    "haveAccount": "Already have an account? Login"
+  },
+  "home": {
+    "title": "Welcome!"
+  },
+  "error": {
+    "fillFields": "Please fill in all fields",
+    "invalidCredentials": "Invalid username or password",
+    "passwordMismatch": "Passwords do not match",
+    "registrationFailed": "Registration failed. Please try again"
+  }
+}
